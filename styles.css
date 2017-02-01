@@ -1,0 +1,19 @@
+html{
+    margin:0px;
+    padding:0px;
+}
+body{
+    text-align: center;    
+    margin:0px;
+    position:absolute;
+    padding:0px;
+    margin:1px;
+    
+    border:1px solid #DDD;
+    
+}
+
+#drag-region{
+    position:absolute;   
+     -webkit-app-region: drag;
+}   
